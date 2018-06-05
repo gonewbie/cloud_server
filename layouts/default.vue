@@ -9,10 +9,10 @@
                 Main
               </nuxt-link>
               <span class="navbar-burger burger" data-target="navbarMenuHeroB">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </span>
         </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
@@ -38,5 +38,8 @@
       </div>
     </div>
     <nuxt/>
+      <footer class="footer has-text-centered">
+        <p>2018</p>
+      </footer>
   </div>
 </template>
