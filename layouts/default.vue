@@ -16,13 +16,13 @@
         </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
-            <nuxt-link to="/" class="navbar-item is-active">
+            <nuxt-link to="/menu/introduce" class="navbar-item is-active">
               소개
             </nuxt-link>
-            <nuxt-link to="/" class="navbar-item">
+            <nuxt-link to="/menu/footstep" class="navbar-item">
               발자취
             </nuxt-link>
-            <nuxt-link to="/" class="navbar-item">
+            <nuxt-link to="/menu/self-improvement" class="navbar-item">
               자기 계발
             </nuxt-link>
           </div>
