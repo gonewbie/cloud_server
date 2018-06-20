@@ -1,6 +1,6 @@
 <template>
   <section class="section">
-    <div class="columns">
+    <div class="columns is-centered">
       <span v-for="menu in menus" :key="menu">
       <nuxt-link :to="'/menu/' + menu" class="box">
         <!--<figure class="image">
@@ -15,7 +15,7 @@
 </template>
 
 <script>
-  let objMenus = ["Introduce", "Footstep", "Self-Improvement"];
+  let objMenus = ["introduce", "footstep", "self-improvement"];
   
   export default {
     data() {

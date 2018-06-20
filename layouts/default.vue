@@ -39,7 +39,7 @@
     </div>
     <nuxt/>
       <footer class="footer has-text-centered">
-        <p>2018</p>
+        <p>이 사이트의 저작권은 본 개발자에게 있습니다. 2018</p>
       </footer>
   </div>
 </template>
