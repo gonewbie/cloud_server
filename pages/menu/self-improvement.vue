@@ -6,18 +6,18 @@
       <p class="menu-label">소개</p>
       <ul class="menu-list">
         <li><nuxt-link to="/menu/introduce">자기 소개</nuxt-link></li>
-        <li><a>취미</a></li>
+        <li><nuxt-link to="/menu/introduce">취미</nuxt-link></li>
       </ul>
       <p class="menu-label">발자취</p>
       <ul class="menu-list">
         <li><nuxt-link to="/menu/footstep">과거</nuxt-link></li>
-        <li><a>현재</a></li>
-        <li><a>향후 계획</a></li>
+        <li><nuxt-link to="/menu/footstep">현재</nuxt-link></li>
+        <li><nuxt-link to="/menu/footstep">향후 계획</nuxt-link></li>
       </ul>
       <p class="menu-label">자기 계발</p>
      <ul class="menu-list">
         <li><nuxt-link to="/menu/self-improvement">자격증</nuxt-link></li>
-       <li><a>어학</a></li>
+       <li><nuxt-link to="/menu/self-improvement">어학</nuxt-link></li>
      </ul>
     </aside>
     </div>
