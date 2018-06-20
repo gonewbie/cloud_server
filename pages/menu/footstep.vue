@@ -23,7 +23,7 @@
     </div>
     <div class="column">
         <div class="container">
-            <div class="title">이 개발자의 족적(Footstep)</div>
+            <div class="title">이 개발자의 족적(Footstep)</div><br>
             <div class="subtitle">과거</div>
             <div class="hero is-warning">
                 <div class="container">
@@ -31,12 +31,14 @@
                     스마트 엘리베이터<br>
                 </div>
             </div>
+            <br>
             <div class="subtitle">현재</div>
             <div class="hero is-warning">
                 <div class="container">
                     EYE-TOUCH (초보부모들을 의한 영유아 행동분석 장치)
                 </div>
             </div>
+            <br>
             <div class="subtitle">향후 계획</div>
             <div class="hero is-warning">
                 <div class="container">

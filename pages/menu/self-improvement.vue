@@ -23,7 +23,7 @@
     </div>
     <div class="column">
         <div class="container">
-            <div class="title">이 녀석은 이런 거도 할 줄 알아요</div>
+            <div class="title">이 녀석은 이런 거도 할 줄 알아요</div><br>
             <div class="subtitle">자격증</div>
             <div class="hero is-warning">
                 <div class="container">
@@ -31,6 +31,7 @@
                     TOEIC Score: 825 (만료)
                 </div>
             </div>
+            <br>
             <div class="subtitle">어학 능력</div>
             <div class="hero is-warning">
                 <div class="container">
